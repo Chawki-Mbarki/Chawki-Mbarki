@@ -23,11 +23,11 @@
 ```javascript
 const Chawki-Mbarki = {
   pronouns: ["he", "him"],
-  code: [HTML/CSS, JavaScript, Python, C#.NET, Semantic UI,
-  Bootstrap, java],
+  code: [HTML/CSS, JavaScript, React, Python, 
+        C#.NET, MySQL, MongoDB],
   askMeAbout: ['League of legends', 'or any dragon name in skyrim'],
-  challenge: "I am honing my JS skills and picking up Webpack",
-  funFacts: ['HXH is better than one piece', 'I love spicy food']
+  challenge: "I am honing my deployment phase knowledge and picking up Ruby",
+  funFacts: ['HxH is better than one piece', 'I love spicy food']
 }
 ```
 <br>
