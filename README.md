@@ -6,7 +6,7 @@
 </h1>
 <p align="center"><em>A remote Full-stack web developer ready for adventure</em></p>
 <p align="center">
-  <a href="https://github.com/chawkimbarki">
+  <a href="https://github.com/Chawki-Mbarki">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/Chawki__Mbarki">
@@ -21,7 +21,7 @@
 ### More about me...  
 
 ```javascript
-const chawkiMbarki = {
+const Chawki-Mbarki = {
   pronouns: ["he", "him"],
   code: [HTML/CSS, JavaScript, Python, C#.NET, Semantic UI,
   Bootstrap, java],
@@ -35,10 +35,10 @@ const chawkiMbarki = {
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&+Code&weight=60&size=15&pause=0&color=010405&vCenter=true&width=500&height=22&lines=learning+is+like+sailing+against+the+tide!)
 <div>
     <a href="#">
-        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=chawkimbarki&show_icons=true&theme=flag-india&bg_color=0000&count_private=true&hide_border=true">
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Chawki-Mbarki&show_icons=true&theme=flag-india&bg_color=0000&count_private=true&hide_border=true">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chawkimbarki&theme=flag-india&background=0000&hide_border=true"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chawki-Mbarki&theme=flag-india&background=0000&hide_border=true"
         >
     </a>
 </div>
