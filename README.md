@@ -23,8 +23,7 @@
 ```javascript
 const Chawki-Mbarki = {
   pronouns: ["he", "him"],
-  code: [HTML/CSS, JavaScript, React, Python, 
-        C#.NET, MySQL, MongoDB],
+  code: [HTML/CSS, JavaScript, React, Python, C#.NET, MySQL, MongoDB],
   askMeAbout: ['League of legends', 'or any dragon name in skyrim'],
   challenge: "I am honing my deployment phase knowledge and picking up Ruby",
   funFacts: ['HxH is better than one piece', 'I love spicy food']
